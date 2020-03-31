@@ -10,6 +10,7 @@ export default function App() {
   );
 }
 
+//usually camelcase instead of dashes
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -22,3 +23,4 @@ const styles = StyleSheet.create({
 
 //<View> is the same as <div>
 //<Text> is the same as  <p>, <h1>....
+//<Image> is the same as <img>
